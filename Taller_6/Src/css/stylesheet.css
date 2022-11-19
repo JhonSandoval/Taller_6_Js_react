@@ -1,0 +1,35 @@
+@font-face {
+  font-family: People_book;
+  src: url(../Fonts/People_Book.otf);
+}
+
+.font_book{
+  font-family: "People_book";
+
+}
+
+html {
+    font-family: sans-serif;
+  }
+
+  .contenido {
+    width: 100%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+  }
+  
+  .form input[type="number"] {
+    width: 100px;
+  }
+
+  .ultimo_Resultado {
+    color: white;
+    padding: 3px;
+  }
+
+.color_letra {
+
+  color: blue;
+
+}
